@@ -1,0 +1,17 @@
+G:\Github\Snake\Snake\PC1\bin\Release\net6.0-windows\PC1.exe
+G:\Github\Snake\Snake\PC1\bin\Release\net6.0-windows\PC1.deps.json
+G:\Github\Snake\Snake\PC1\bin\Release\net6.0-windows\PC1.runtimeconfig.json
+G:\Github\Snake\Snake\PC1\bin\Release\net6.0-windows\PC1.dll
+G:\Github\Snake\Snake\PC1\bin\Release\net6.0-windows\PC1.pdb
+G:\Github\Snake\Snake\PC1\obj\Release\net6.0-windows\PC1.csproj.AssemblyReference.cache
+G:\Github\Snake\Snake\PC1\obj\Release\net6.0-windows\PC1.Form1.resources
+G:\Github\Snake\Snake\PC1\obj\Release\net6.0-windows\PC1.csproj.GenerateResource.cache
+G:\Github\Snake\Snake\PC1\obj\Release\net6.0-windows\PC1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Github\Snake\Snake\PC1\obj\Release\net6.0-windows\PC1.AssemblyInfoInputs.cache
+G:\Github\Snake\Snake\PC1\obj\Release\net6.0-windows\PC1.AssemblyInfo.cs
+G:\Github\Snake\Snake\PC1\obj\Release\net6.0-windows\PC1.csproj.CoreCompileInputs.cache
+G:\Github\Snake\Snake\PC1\obj\Release\net6.0-windows\PC1.dll
+G:\Github\Snake\Snake\PC1\obj\Release\net6.0-windows\refint\PC1.dll
+G:\Github\Snake\Snake\PC1\obj\Release\net6.0-windows\PC1.pdb
+G:\Github\Snake\Snake\PC1\obj\Release\net6.0-windows\PC1.genruntimeconfig.cache
+G:\Github\Snake\Snake\PC1\obj\Release\net6.0-windows\ref\PC1.dll
